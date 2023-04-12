@@ -29,4 +29,4 @@ jobs:
         # Artifact name
        name: TestPath
         # Destination path
-       path: /Users/jaymiee/Desktop/
+      # path: /Users/jaymiee/Desktop/
